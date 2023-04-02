@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="lab1_Java_Sanin:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/lab1_Java_Sanin_jar</output-path>
+    <root id="archive" name="lab1_Java_Sanin.jar">
+      <element id="module-output" name="lab1_Java_Sanin" />
+    </root>
+  </artifact>
+</component>
